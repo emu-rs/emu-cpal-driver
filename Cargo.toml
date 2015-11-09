@@ -1,0 +1,4 @@
+[package]
+name = "emu-cpal-driver"
+version = "0.1.0"
+authors = ["yupferris <jake@fusetools.com>"]
